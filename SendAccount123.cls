@@ -2,22 +2,21 @@
 
 *Description: Rest Callout
 
-*Owner: AP
 
 ********************************************************************/
 
 public class SendAccount123 {
 
 
-String clientId = '3MVG9dZJodJWITStuEh_VOmxX8fMiqJZTzqgZqvHQTFJPVKpBjpQRIZsvvA1MvPbMXtgeyhv9fFnN9uNYbkGP';
+String clientId = '3MVG9dZJodJWITStuEh_VOmxX8fMiqJZTzqgZqvHQT****';
 
 
-String clientsecret='6749128314316670215';
+String clientsecret='6749128314***';
 
 
-String username='rednishanth@salesforce.com';
+String username='rednishanth**@salesforce.com';
 
-String password='Prasuna-24oGA4Flp0N92yVG0WgLxpbDJ1';
+String password='Pra***oGA4Flp0N92yVG0***DJ1';
 
 String accesstoken_url='https://login.salesforce.com/services/oauth2/token';
 
