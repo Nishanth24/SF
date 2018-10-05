@@ -1,20 +1,7 @@
 /*********************************************************************
 
-* Description - Apex REST service with GET and POST methods
+Description - Apex REST service with GET and POST methods
 
-* Author - AP
-
-<u>Json format</u>
-
-{
-
-"name" : "Akash",
-
-"phone" : "8826031286",
-
-"website" : "www.akashmishra.co.in"
-
-}
 
 ***********************************************************************/
 
